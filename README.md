@@ -6,8 +6,8 @@ Hi 👋 My name is Owen Wetherell and I've been coding since 2014 (my freshman y
 - 🤝  I'm open to collaborating on anything that could be a learning experience
 
 <a href="https://www.twitter.com/whifflesdev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/whifflesdev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a><a href="https://www.github.com/whifflesdev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/whifflesdev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/twitter/follow/whifflesdev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a> <a href="https://www.github.com/whifflesdev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/whifflesdev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> <a href="https://www.twitch.tv/whifflesdev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/whifflesdev?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS"/></a>
 
 ### Skills
 
